@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Ey3Patxh
+/src/backend/database.py      @Ey3Patxh
+/src/backend/routers/auth.py  @Ey3Patxh
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Ey3Patxh
